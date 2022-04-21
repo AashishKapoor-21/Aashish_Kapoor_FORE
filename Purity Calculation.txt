@@ -1,0 +1,3 @@
+#Calculating purity:    Reference: https://www.kaggle.com/saptarsi/kmedoid-sg
+#Evaluating Purity: https://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-clustering-1.html
+#Values close to 1--> good clusters
